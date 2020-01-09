@@ -1996,7 +1996,7 @@ img:hover {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #ffffb4;
+  background: #2477ff;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -3295,7 +3295,7 @@ img:hover {
   }
 }
 body {
-  background: url("/images/pixiv_04.jpg");
+  background: url("/images/pixiv_02.jpg");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: 50% 50%;
